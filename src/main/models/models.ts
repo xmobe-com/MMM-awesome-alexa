@@ -1,5 +1,5 @@
 import * as path from "path";
-import { Models } from "snowboy";
+import { Models } from "@bugsounet/snowboy";
 
 import { MODELS } from "./model-dictionary";
 

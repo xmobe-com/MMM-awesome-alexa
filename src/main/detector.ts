@@ -1,6 +1,6 @@
 import * as path from "path";
 import { Observable, Subject } from "rxjs/Rx";
-import { Detector, Models } from "snowboy";
+import { Detector, Models } from "@bugsounet/snowboy";
 
 export class HotwordDetector extends Detector {
     private subject: Subject<DETECTOR>;

@@ -1,5 +1,5 @@
 import { Mic } from "node-record-lpcm16";
-import { Models } from "snowboy";
+import { Models } from "@bugsounet/snowboy";
 import { AudioService } from "../alexa-voice-service";
 import { ConfigService } from "../config-service";
 import { HotwordDetector } from "../detector";
